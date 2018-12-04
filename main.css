@@ -1,0 +1,64 @@
+#about-us{
+    background-color: #0d73f9;
+    margin-top: 5rem;
+}
+
+.texto-claro{
+    color: #ffffff;
+}
+
+.titulo{
+    text-align: right;
+}
+
+#img-1{
+    margin-top: -2.5rem;
+}
+
+#texto-1{
+    margin-top: 5rem;
+}
+
+#texto-2{
+    margin-top: 5rem;
+}
+
+#img-2{
+    margin-bottom: -2.5rem;
+}
+
+#titulo-1{
+    margin-top: 3rem;
+    transform: rotate(-90deg);
+}
+
+.retangulo{
+    width: 10rem;
+    height: 2.5rem;
+    border: solid 1px #ffffff;
+}
+
+#titulo-sobre{
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+
+/*SECAO 2*/
+
+#o-q-fazemos{
+    margin-top: 10rem;
+}
+
+#o-q-fazemos h2{
+    color: #0d73f9;
+}
+
+#servicos-icones{
+    margin-top: 2.5rem;
+}
+
+.icone{
+    width: 100px;
+}
